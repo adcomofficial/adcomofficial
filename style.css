@@ -1,0 +1,17 @@
+.navbar{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1{
+  width: 50%;
+}
+
+ul{
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  list-style: none;
+}
