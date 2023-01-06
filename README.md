@@ -21,7 +21,7 @@ Berfokus pada bidang **Frontend Developer** dan **Backend Developer**
 
 ### 🚀 How to reach us:
 
-- Email: [elfinsanjaya12@gmail.com](official.adcom@gmail.com)
+- Email: [official.adcom@gmail.com](official.adcom@gmail.com)
 - Instagram: [@adcom_official](https://www.instagram.com/adcom_official/)
 
 ---
